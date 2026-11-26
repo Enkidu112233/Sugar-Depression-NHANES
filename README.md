@@ -1,4 +1,4 @@
-# NHANES replication package
+# NHANES sugar intake and depressive symptoms
 
 Stata code and analysis data for dietary sugar intake and depressive symptoms in NHANES 2017–2018 and August 2021–August 2023. This package uses the six files supplied for the 1127 revision. It includes the three processed Stata datasets, two cleaning scripts, and the 1127 statistical analysis. It does not generate typeset manuscript tables. The analysis itself produces machine-readable summaries and estimates.
 
