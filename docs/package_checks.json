@@ -1,0 +1,43 @@
+{
+  "stata_modes": {
+    "analysis": 0,
+    "rebuild": 0,
+    "full": 0
+  },
+  "dependency_version": "3.2.8",
+  "baseline_subpopulations": [
+    1340,
+    988,
+    2328
+  ],
+  "bootstrap_reps_per_model": [
+    2000,
+    2000
+  ],
+  "outputs_agree_across_routes": {
+    "estimates": 58,
+    "bootstrap": 3,
+    "profile": 37,
+    "flow": 16,
+    "selection": 48,
+    "cutoffs": 2
+  },
+  "rebuilt_data_exact_match": [
+    {
+      "file": "17_18final_analysis_data.dta",
+      "observations": 9254,
+      "variables": 24
+    },
+    {
+      "file": "2022final_analysis_data.dta",
+      "observations": 11933,
+      "variables": 24
+    },
+    {
+      "file": "final_two_cycles.dta",
+      "observations": 21187,
+      "variables": 24
+    }
+  ],
+  "raw_reference_inputs": 18
+}

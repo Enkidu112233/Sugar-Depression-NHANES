@@ -1,0 +1,9 @@
+/data/raw/*/*.xpt
+/data/raw/*/*.XPT
+/work/
+/output/
+*.smcl
+*.stswp
+__pycache__/
+.DS_Store
+Thumbs.db

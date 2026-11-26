@@ -1,0 +1,38 @@
+[
+  {
+    "source": "17-18数据清洗.do",
+    "file": "code/01_cleaning_2017_2018.do",
+    "source_sha256": "d109588f07421f95b11bbee3bcc52716c79cbd3985ab656860e1de988fd64248",
+    "packaged_sha256": "9e8f211d38a24ee3f185caac43d23278f0c08fdc9beb492a6de1e86574b2520d"
+  },
+  {
+    "source": "21-23数据清洗.do",
+    "file": "code/02_cleaning_2021_2023.do",
+    "source_sha256": "86730c74508edbde7ce3842efd5a049c0d81f85022c27292200d51a0517fd0c7",
+    "packaged_sha256": "7b7e5f1ad5b5f6d1119ae0a3c01ce3c17e413bb4b99048dadfbcf9d5aeb92520"
+  },
+  {
+    "source": "17_18final_analysis_data.dta",
+    "file": "data/processed/17_18final_analysis_data.dta",
+    "source_sha256": "791fb39735bacfad81c10600e49a02b8256007b27bc76365a2b93ea5f8c9b44d",
+    "packaged_sha256": "791fb39735bacfad81c10600e49a02b8256007b27bc76365a2b93ea5f8c9b44d"
+  },
+  {
+    "source": "2022final_analysis_data.dta",
+    "file": "data/processed/2022final_analysis_data.dta",
+    "source_sha256": "e2086c118dcdce961249a30e7331933156e52c744834a05a4fdd0e03353b4fcb",
+    "packaged_sha256": "e2086c118dcdce961249a30e7331933156e52c744834a05a4fdd0e03353b4fcb"
+  },
+  {
+    "source": "final_two_cycles.dta",
+    "file": "data/processed/final_two_cycles.dta",
+    "source_sha256": "6e62e9791271741aa816bc0aea1dae9eda15428b5a9d51b457aa78384cc873b9",
+    "packaged_sha256": "6e62e9791271741aa816bc0aea1dae9eda15428b5a9d51b457aa78384cc873b9"
+  },
+  {
+    "source": "1127回归.do",
+    "file": "code/04_statistical_analysis.do",
+    "source_sha256": "d775fc9a6768eac5c2832beb848118a361fb157809c2f45f358258f6b094592d",
+    "packaged_sha256": "b33e2619baaa350180e3e6ff9d5d39ee5a3376ab7aef4ad0b11b07e7068ab962"
+  }
+]

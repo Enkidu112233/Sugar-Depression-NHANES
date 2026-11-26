@@ -1,0 +1,15 @@
+* text=auto
+*.do text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.diff text eol=lf
+*.txt text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+*.dta binary
+*.xpt binary
+
+# Keep the upstream files byte-for-byte as distributed.
+vendor/gologit2/* -text
